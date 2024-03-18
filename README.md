@@ -1,11 +1,11 @@
 # Website Starter
-Starter project for a simple webpage.
+Starter project for a simple webpage builder exercise.
 
 ## Design
-you can find the design file [here](./design_file.png)
+You can find the design file [here](./design_file.png).
 
 ## Project
-write a webpage that matches the design file.
+Create a webpage that matches the design file.
 
 **Color Scheme**
 - `#002aaa` a tags, primary blue
