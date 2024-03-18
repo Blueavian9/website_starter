@@ -7,11 +7,11 @@ You can find the design file [here](./design_file.png).
 ## Project
 Create a webpage that matches the design file.
 
-**Color Scheme**
-- `#002aaa` a tags, primary blue
-- `#00aeee` button secondary blue
-- `#333` .brand span
-- `#eee` Body
-- `#fff` white
-- `#555` borders
+**Color Scheme Used in Design File**
+- `#002aaa` dark blue,     a tags
+- `#00aeee` light blue,    button
+- `#333`    charcoal,      .brand/name logo span
+- `#eee`    light grey,    Body/general background
+- `#fff`    white,         section background color
+- `#555`    off-black,     borders
 
